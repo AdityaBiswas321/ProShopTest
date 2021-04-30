@@ -10,6 +10,7 @@ import {
   listProductDetails,
   createProductReview,
 } from '../actions/productActions'
+import { clearProductDetails } from '../actions/clearProductDetailsActions'
 import { PRODUCT_CREATE_REVIEW_RESET } from '../constants/productConstants'
 
 const ProductScreen = ({ history, match }) => {
