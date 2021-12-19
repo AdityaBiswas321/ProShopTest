@@ -1,8 +1,4 @@
 Completed project, recreated from another project.
-For practice only 
+For practice only for react
 
-https://proshopapp5566.herokuapp.com
 
-John@example.com
-
-Pswrd 123456
