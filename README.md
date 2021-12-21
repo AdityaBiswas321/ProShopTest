@@ -1,4 +1,4 @@
-Completed project, recreated from another project.
-For practicing react
+Tutorial Project, used for learning React Fundamentals
+CRUD Application 
 
 
